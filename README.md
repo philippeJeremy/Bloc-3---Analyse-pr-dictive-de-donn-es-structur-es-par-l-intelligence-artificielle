@@ -1,4 +1,5 @@
 # Bloc-3-Analyse-predictive-de-donnees-structurees-par-l-intelligence-artificielle
+https://www.francecompetences.fr/recherche/rncp/35288/
 
 In this block we will have three projects.
 Wallmart, which consists of the use of supervising machine learning to predict data.
