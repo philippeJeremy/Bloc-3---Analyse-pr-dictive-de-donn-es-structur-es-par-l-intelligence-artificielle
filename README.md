@@ -1,7 +1,5 @@
 # Bloc-3-Analyse-predictive-de-donnees-structurees-par-l-intelligence-artificielle
 
-video: https://share.vidyard.com/watch/MCy4D7HHcFTvzERXCCdynk?
-
 certification: https://www.francecompetences.fr/recherche/rncp/35288/
 
 In this block we will have three projects.
